@@ -56,11 +56,11 @@ listadas em  https://github.com/DerikDembinski0/GerenciamentoBiblioteca/blob/mas
 
 # Alguns prints do progama
 
-![Modelo](https://github.com/DerikDembinski0/AutomacaoAliexpress/blob/master/Assets/Principal.png)
+![Modelo](https://github.com/DerikDembinski0/GerenciamentoBiblioteca/blob/master/Assets/Principal.png)
 
 
 
-![Modelo](https://github.com/DerikDembinski0/AutomacaoAliexpress/blob/master/Assets/Exec.png)
+![Modelo](https://github.com/DerikDembinski0/GerenciamentoBiblioteca/blob/master/Assets/Exec.png)
 
 
 # Autor
